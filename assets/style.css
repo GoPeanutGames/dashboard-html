@@ -88,6 +88,13 @@ body {
     color: #bffcff;
     letter-spacing: 5px;
     text-shadow: 0px 0px 30px #bffcff; } }
+      html .main #content .time-description,
+      body .main #content .time-description {
+        margin-top: 20px;
+        margin-bottom: 50px; }
+        html .main #content .time-description span,
+        body .main #content .time-description span {
+          color: #e6dbae; }
       html .main #content p,
       body .main #content p {
         color: #e6dbae;
