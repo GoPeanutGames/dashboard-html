@@ -1,0 +1,20 @@
+{
+  "name": "battle-dash-html",
+  "version": "1.0.0",
+  "description": "Welcome to **Peanut Games**, where excitement and adventure await at every turn! Our repository is a treasure trove of engaging and innovative games created using Unity WebGL technology. We're dedicated to bringing you an unforgettable gaming experience, with a variety of titles that promise to captivate and thrill players of all ages.",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "node-sass assets/style.scss assets/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoPeanutGames/battle-dash-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoPeanutGames/battle-dash-html/issues"
+  },
+  "homepage": "https://github.com/GoPeanutGames/battle-dash-html#readme"
+}
