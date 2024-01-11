@@ -1,4 +1,4 @@
-const cacheName = "PeanutGames-PeanutDashboard-1.0";
+const cacheName = "PeanutGames-PeanutDashboard-0.0.2";
 const contentToCache = [
     "Build/Dashboard.loader.js",
     "Build/Dashboard.framework.js",
