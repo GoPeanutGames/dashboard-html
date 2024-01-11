@@ -1,9 +1,9 @@
 const cacheName = "PeanutGames-PeanutDashboard-1.0";
 const contentToCache = [
     "Build/Dashboard.loader.js",
-    "Build/Dashboard.framework.js.br",
-    "Build/Dashboard.data.br",
-    "Build/Dashboard.wasm.br",
+    "Build/Dashboard.framework.js",
+    "Build/Dashboard.data",
+    "Build/Dashboard.wasm",
     "TemplateData/style.css"
 
 ];
