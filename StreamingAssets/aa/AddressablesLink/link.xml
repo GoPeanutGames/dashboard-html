@@ -1,8 +1,11 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BubbleBotsButton" preserve="all" />
     <type fullname="MovePlayerLeftRight" preserve="all" />
     <type fullname="MovePlayerUpDown" preserve="all" />
     <type fullname="PeanutDashboard.Dashboard.DashboardController" preserve="all" />
+    <type fullname="PeanutDashboard.Dashboard.UI.ConnectMetamaskButton" preserve="all" />
+    <type fullname="PeanutDashboard.Dashboard.UI.UIChangeWithLogIn" preserve="all" />
     <type fullname="PeanutDashboard.Init.SceneInfo" preserve="all" />
     <type fullname="PeanutDashboard.Utils.UI.CanvasDetectSizeChange" preserve="all" />
   </assembly>
