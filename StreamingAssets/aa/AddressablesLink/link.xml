@@ -7,7 +7,11 @@
     <type fullname="PeanutDashboard.Dashboard.UI.ConnectMetamaskButton" preserve="all" />
     <type fullname="PeanutDashboard.Dashboard.UI.UIChangeWithLogIn" preserve="all" />
     <type fullname="PeanutDashboard.Init.SceneInfo" preserve="all" />
+    <type fullname="PeanutDashboard.Shared.Environment.EnvironmentManager" preserve="all" />
+    <type fullname="PeanutDashboard.Shared.Environment.EnvironmentModel" preserve="all" />
     <type fullname="PeanutDashboard.Utils.UI.CanvasDetectSizeChange" preserve="all" />
+    <type fullname="PeanutDashboard.Utils.UI.UserNicknameDisplay" preserve="all" />
+    <type fullname="PeanutDashboard.Utils.UI.UserResourceDisplay" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
