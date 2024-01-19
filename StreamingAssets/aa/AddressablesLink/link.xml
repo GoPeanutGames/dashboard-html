@@ -18,6 +18,7 @@
     <type fullname="MetaMask.Unity.MetaMaskConfig" preserve="all" />
     <type fullname="MetaMask.Unity.MetaMaskUnity" preserve="all" />
     <type fullname="MetaMask.Unity.MetaMaskUnityEventHandler" preserve="all" />
+    <type fullname="MetaMask.Unity.MetaMaskUnity/MetaMaskUnityRpcUrlConfig" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
