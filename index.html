@@ -21,12 +21,6 @@
       <div id="unity-warning"> </div>
     </div>
     <script>
-      window.addEventListener("load", function () {
-        if ("serviceWorker" in navigator) {
-          navigator.serviceWorker.register("ServiceWorker.js");
-        }
-      });
-
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
       var loadingBar = document.querySelector("#unity-loading-bar");
@@ -66,7 +60,7 @@
         streamingAssetsUrl: "StreamingAssets",
         companyName: "PeanutGames",
         productName: "PeanutDashboard",
-        productVersion: "0.0.8",
+        productVersion: "0.0.10",
         showBanner: unityShowBanner,
       };
 
