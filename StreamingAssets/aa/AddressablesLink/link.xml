@@ -11,6 +11,7 @@
     <type fullname="PeanutDashboard.Dashboard.UI.Metamask.ConnectMetamaskButton" preserve="all" />
     <type fullname="PeanutDashboard.Dashboard.UI.Metamask.DisconnectMetamaskButton" preserve="all" />
     <type fullname="PeanutDashboard.Init.SceneInfo" preserve="all" />
+    <type fullname="PeanutDashboard.Shared.Config.GameConfig" preserve="all" />
     <type fullname="PeanutDashboard.Shared.Environment.EnvironmentModel" preserve="all" />
     <type fullname="PeanutDashboard.Shared.UI.OpenSceneButton" preserve="all" />
     <type fullname="PeanutDashboard.UnityServer.ConnectionApprovalHandler" preserve="all" />
@@ -40,7 +41,6 @@
     <type fullname="Unity.Netcode.NetworkPrefabsList" preserve="all" />
     <type fullname="Unity.Netcode.Transports.UTP.UnityTransport" preserve="all" />
     <type fullname="Unity.Netcode.NetworkConfig" preserve="nothing" serialized="true" />
-    <type fullname="Unity.Netcode.NetworkPrefab" preserve="nothing" serialized="true" />
     <type fullname="Unity.Netcode.NetworkPrefabs" preserve="nothing" serialized="true" />
     <type fullname="Unity.Netcode.Transports.UTP.UnityTransport/ConnectionAddressData" preserve="nothing" serialized="true" />
     <type fullname="Unity.Netcode.Transports.UTP.UnityTransport/SimulatorParameters" preserve="nothing" serialized="true" />
