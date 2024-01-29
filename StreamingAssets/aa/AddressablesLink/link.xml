@@ -11,8 +11,6 @@
     <type fullname="PeanutDashboard.Dashboard.UI.Metamask.ConnectMetamaskButton" preserve="all" />
     <type fullname="PeanutDashboard.Dashboard.UI.Metamask.DisconnectMetamaskButton" preserve="all" />
     <type fullname="PeanutDashboard.Init.SceneInfo" preserve="all" />
-    <type fullname="PeanutDashboard.Shared.Config.GameConfig" preserve="all" />
-    <type fullname="PeanutDashboard.Shared.Environment.EnvironmentModel" preserve="all" />
     <type fullname="PeanutDashboard.Shared.UI.OpenSceneButton" preserve="all" />
     <type fullname="PeanutDashboard.UnityServer.ConnectionApprovalHandler" preserve="all" />
     <type fullname="PeanutDashboard.UnityServer.MatchmakerClient" preserve="all" />
