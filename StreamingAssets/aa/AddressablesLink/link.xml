@@ -20,6 +20,15 @@
     <type fullname="PeanutDashboard._02_BattleDash.Player.Server.ServerBattleDashPlayerMovement" preserve="all" />
     <type fullname="PeanutDashboard._02_BattleDash.Player.Server.ServerBattleDashPlayerShooting" preserve="all" />
     <type fullname="PeanutDashboard._02_BattleDash.Spawner.ServerBattleDashPlayerSpawner" preserve="all" />
+    <type fullname="PeanutDashboard._02_BattleDash.State.ServerBattleDashGameState" preserve="all" />
+    <type fullname="PeanutDashboard._02_BattleDash.UI.BattleDashTooltipUI" preserve="all" />
+    <type fullname="PeanutDashboard._02_BattleDash.UI.CloseTooltipButton" preserve="all" />
+    <type fullname="PeanutDashboard._02_BattleDash.UI.EndGame.BattleDashCloseEndGamePopupButton" preserve="all" />
+    <type fullname="PeanutDashboard._02_BattleDash.UI.EndGame.BattleDashExitButton" preserve="all" />
+    <type fullname="PeanutDashboard._02_BattleDash.UI.EndGame.BattleDashGoHomePopup" preserve="all" />
+    <type fullname="PeanutDashboard._02_BattleDash.UI.EndGame.BattleDashHomeButton" preserve="all" />
+    <type fullname="PeanutDashboard._02_BattleDash.UI.OpenTooltipsButton" preserve="all" />
+    <type fullname="PeanutDashboard._02_BattleDash.UnityServer.BattleDashDisconnect" preserve="all" />
     <type fullname="PeanutDashboard.Dashboard.DashboardController" preserve="all" />
     <type fullname="PeanutDashboard.Dashboard.UI.Auth.AvatarGroupDisplay" preserve="all" />
     <type fullname="PeanutDashboard.Dashboard.UI.Auth.UIChangeWithLogIn" preserve="all" />
@@ -33,6 +42,7 @@
     <type fullname="PeanutDashboard.Shared.Config.GameConfig" preserve="all" />
     <type fullname="PeanutDashboard.Shared.Environment.EnvironmentManager" preserve="all" />
     <type fullname="PeanutDashboard.Shared.Environment.EnvironmentModel" preserve="all" />
+    <type fullname="PeanutDashboard.Shared.UI.GoFullscreenOnMobileAndCallClickButton" preserve="all" />
     <type fullname="PeanutDashboard.Shared.UI.OpenGameButton" preserve="all" />
     <type fullname="PeanutDashboard.UnityServer.Core.ConnectionApprovalHandler" preserve="all" />
     <type fullname="PeanutDashboard.UnityServer.Core.MatchmakerClient" preserve="all" />
