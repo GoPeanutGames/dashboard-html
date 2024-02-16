@@ -1,6 +1,7 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="MovePlayerUpDown" preserve="all" />
+    <type fullname="PeanutDashboard._02_BattleDash.Areas.ClientAreaEnvSpawner" preserve="all" />
     <type fullname="PeanutDashboard._02_BattleDash.Areas.ServerAreaController" preserve="all" />
     <type fullname="PeanutDashboard._02_BattleDash.Areas.ServerAreaMonsterSpawner" preserve="all" />
     <type fullname="PeanutDashboard._02_BattleDash.Areas.ServerBackgroundController" preserve="all" />
@@ -8,6 +9,7 @@
     <type fullname="PeanutDashboard._02_BattleDash.Audio.BattleDashAudioController" preserve="all" />
     <type fullname="PeanutDashboard._02_BattleDash.Config.AreaMonsterSpawnDefinition" preserve="all" />
     <type fullname="PeanutDashboard._02_BattleDash.Config.MonsterSpawnLocation" preserve="all" />
+    <type fullname="PeanutDashboard._02_BattleDash.Environment.GenericEnvObject" preserve="all" />
     <type fullname="PeanutDashboard._02_BattleDash.Model.AreaType" preserve="all" />
     <type fullname="PeanutDashboard._02_BattleDash.Model.FactionType" preserve="all" />
     <type fullname="PeanutDashboard._02_BattleDash.Model.MonsterType" preserve="all" />
@@ -43,6 +45,7 @@
     <type fullname="PeanutDashboard.Dashboard.UI.Loading.LoadingOverlay" preserve="all" />
     <type fullname="PeanutDashboard.Dashboard.UI.Metamask.ConnectMetamaskButton" preserve="all" />
     <type fullname="PeanutDashboard.Dashboard.UI.Metamask.DisconnectMetamaskButton" preserve="all" />
+    <type fullname="PeanutDashboard.Dashboard.UI.Region.RegionDropdown" preserve="all" />
     <type fullname="PeanutDashboard.Init.GameInfo" preserve="all" />
     <type fullname="PeanutDashboard.Init.SceneInfo" preserve="all" />
     <type fullname="PeanutDashboard.Shared.Config.GameConfig" preserve="all" />
